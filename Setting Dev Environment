@@ -1,0 +1,21 @@
+#Install git-Client
+apt-get install git-gui giggle	
+
+#Install Java
+sudo apt-get install python-software-properties
+sudo add-apt-repository ppa:webupd8team/java
+sudo apt-get update
+sudo apt-get install oracle-java7-installer
+
+#Install maven
+apt-get install maven
+			
+#apache2
+sudo apt-get install apache2
+
+#Install nodejs
+sudo apt-get install python-software-properties python g++ make
+sudo add-apt-repository ppa:chris-lea/node.js
+sudo apt-get update
+sudo apt-get install nodejs
+
