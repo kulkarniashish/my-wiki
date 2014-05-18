@@ -1,0 +1,28 @@
+1. grunt
+sudo npm install -g grunt-cli
+
+start a grunt project:
+grunt on any project		
+
+2. node express application
+=> 
+sudo npm install -g express-generator
+express --css stylus myapp
+npm install
+npm start
+
+3. start an anguler app using yoemon
+
+4. bower
+Bower is a package manager for the web.
+
+#Run aiq-web
+npm install
+bower install
+grunt server
+
+#http://localhost:9999/spring-batch-admin-sample/jobs/countryLoadJob
+start_element(long)=0,appnexus_seat=SEAT_MIQ_2
+
+
+
